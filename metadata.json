@@ -1,0 +1,8 @@
+{
+  "name": "VOYAGO",
+  "description": "Trilingual tourism atlas and IA BN travel companion for Europe, Africa, Morocco, Egypt, Algeria, and the Americas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
